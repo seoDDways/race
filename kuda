@@ -226,18 +226,18 @@ pcm_consent_cookie: 'analytical=true&amp;countryCode=ID&amp;consentId=365003b4-2
                 "brand": {
                     "@type": "Brand",
                     "name": "SLOT1000"
-                
+                },
                 "offers": {
                     "@type": "Offer",
                     "priceCurrency": "IDR",
-                    "price": 1000,
+                    "price": "1000",
                     "availability": "https://schema.org/InStock",
-                    "url": "https://conectavale.hipocampus.com.br/local/pages/"
+                    "url": "https://conectavale.hipocampus.com.br/local/pages/",
                 },
                 "aggregateRating": {
                     "@type": "AggregateRating",
                     "ratingValue": "4.9",
-                    "reviewCount": 759846
+                    "reviewCount": "759846"
                 },
                 "review": [
                 {
