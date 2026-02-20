@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <link href="https://cf.bstatic.com" rel="dns-prefetch" crossorigin>
 <link href="https://cf.bstatic.com" rel="dns-prefetch" crossorigin>
@@ -231,7 +232,7 @@ pcm_consent_cookie: 'analytical=true&amp;countryCode=ID&amp;consentId=365003b4-2
                     "priceCurrency": "IDR",
                     "price": "1000",
                     "availability": "https://schema.org/InStock",
-                    "url": "https://conectavale.hipocampus.com.br/local/pages/",
+                    "url": "https://conectavale.hipocampus.com.br/local/pages/"
                 },
                 "aggregateRating": {
                     "@type": "AggregateRating",
